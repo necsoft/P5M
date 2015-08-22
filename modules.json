@@ -1,4 +1,5 @@
 [{
     "name": "P5M_ArrayShufler",
-    "repository": "http://github.com/necsoft/P5M_ArrayShufler"
+    "repository": "http://github.com/necsoft/P5M_ArrayShufler",
+    "description": "Simple way to shuffle arrays."
 }]
