@@ -1,6 +1,6 @@
 [{
     "name": "P5M_ArrayShufler",
     "repository": "http://github.com/necsoft/P5M_ArrayShuffler",
-    "raw_main": "https://raw.githubusercontent.com/necsoft/P5M_ArrayShuffler/master/P5M_ArrayShuffler.pde",
+    "raw_main": "http://raw.githubusercontent.com/necsoft/P5M_ArrayShuffler/master/P5M_ArrayShuffler.pde",
     "description": "Simple way to shuffle arrays."
 }]
